@@ -12,4 +12,4 @@ If the barcode is registered, the sendColorCode() is called.
 There you can call the ArduinoCommunication.java for the communication. 
 How to call the ArduinoCommunication.java you can see in the „BarcodeGame“ sources. The sendColorCode() and the ArduinoCommunication is empty in this sample. For further implementation you must add these parts from and like in the project „BarcodeGame“.
 
-The use of  the Barcode API was refers to this tutorial: https://www.youtube.com/watch?v=KBlQt7IsvM4
+The use of  the Barcode API refers to this tutorial: https://www.youtube.com/watch?v=KBlQt7IsvM4
